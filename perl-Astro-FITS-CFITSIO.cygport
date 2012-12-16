@@ -1,0 +1,10 @@
+CPAN_AUTHOR="pratzlaff"
+inherit perl
+
+NAME="perl-Astro-FITS-CFITSIO"
+VERSION=1.09
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl cfitsio bindings"
+DESCRIPTION="Astro::FITS::CFITSIO is a Perl interface to William Pence's
+cfitsio subroutine library."
