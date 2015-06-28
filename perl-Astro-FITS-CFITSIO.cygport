@@ -3,7 +3,7 @@ inherit perl
 
 NAME="perl-Astro-FITS-CFITSIO"
 VERSION=1.10
-RELEASE=1
+RELEASE=2
 CATEGORY="Perl"
 SUMMARY="Perl cfitsio bindings"
 DESCRIPTION="Astro::FITS::CFITSIO is a Perl interface to William Pence's
